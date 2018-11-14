@@ -12,7 +12,7 @@ JavaVersion
 >>LsGHRepos.java　　　　--code  
 
 PthonVersion  
->LsGHRepos.py　　　　--code Command is : Python LsGHRepos.py  
+>LsGHRepos.py　　　　--code Command is : python3 LsGHRepos.py  
 >Design.docx　　　　--design manual  
 >UnitTestCases.docx　　　　--unit test case  
 >UserGuide.docx　　　　--user guide  
